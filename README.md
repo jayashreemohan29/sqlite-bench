@@ -11,7 +11,7 @@ Other parameters: Keep the default setting and change only the corresponding par
 **File system:** change from Ext4 to F2FS, keeping SQLite parameters unchanged.
 
 
-** Using the App **
+**Using the App**
 
 1. Import MyApplication into Android Studio
 2. Compile the application to find the apk in the build dir.
