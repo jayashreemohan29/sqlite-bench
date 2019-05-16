@@ -17,3 +17,13 @@ Other parameters: Keep the default setting and change only the corresponding par
 2. Compile the application to find the apk in the build dir.
 3. If not, simply copy the app-debug.apk in the source of this repo to your android device and you should be able to install and use tha app.
 (Main source files are at MyApplication/app/src/main/java/)
+
+
+**Related Papers**
+1. Purohith, Dhathri, Jayashree Mohan, and Vijay Chidambaram. "The dangers and complexities of sqlite benchmarking." Proceedings of the 8th Asia-Pacific Workshop on Systems. ACM, 2017.
+
+    [[pdf]](https://www.cs.utexas.edu/~jaya/pdf/apsys17-sqlite.pdf)
+
+2. Mohan, Jayashree, et al. "Storage on your smartphone uses more energy than you think." 9th {USENIX} Workshop on Hot Topics in Storage and File Systems (HotStorage 17). 2017.
+
+    [[pdf]](https://www.cs.utexas.edu/~jaya/pdf/hotstorage17-energy.pdf)
