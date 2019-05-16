@@ -7,7 +7,9 @@ Experiment comparing defaults with custom settings (For Motivation):
 Other parameters: Keep the default setting and change only the corresponding parameter.
 
 **Journal mode:** change from delete mode to WAL. (others no change)
+
 **Synchronization mode:** change from Full to Normal. (others no change)
+
 **File system:** change from Ext4 to F2FS, keeping SQLite parameters unchanged.
 
 
